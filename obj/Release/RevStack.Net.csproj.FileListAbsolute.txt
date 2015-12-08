@@ -1,0 +1,4 @@
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.Net\bin\Release\RevStack.Net.dll
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.Net\bin\Release\RevStack.Net.pdb
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.Net\obj\Release\RevStack.Net.dll
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.Net\obj\Release\RevStack.Net.pdb

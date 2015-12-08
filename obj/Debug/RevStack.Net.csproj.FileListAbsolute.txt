@@ -1,0 +1,10 @@
+\\psf\Home\Documents\Development\mono\Ambella\net-project\Revstack.Net\obj\Debug\Revstack.Net.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Development\mono\Ambella\net-project\Revstack.Net\bin\Debug\Revstack.Net.dll
+\\psf\Home\Documents\Development\mono\Ambella\net-project\Revstack.Net\bin\Debug\Revstack.Net.pdb
+\\psf\Home\Documents\Development\mono\Ambella\net-project\Revstack.Net\obj\Debug\Revstack.Net.dll
+\\psf\Home\Documents\Development\mono\Ambella\net-project\Revstack.Net\obj\Debug\Revstack.Net.pdb
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.Net\bin\Debug\RevStack.Net.dll
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.Net\bin\Debug\RevStack.Net.pdb
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.Net\obj\Debug\RevStack.Net.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.Net\obj\Debug\RevStack.Net.dll
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.Net\obj\Debug\RevStack.Net.pdb
