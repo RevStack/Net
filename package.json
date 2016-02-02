@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/RevStack/RevStack.Net.git"
+    "url": "https://github.com/RevStack/Net.git"
   },
   "author": "S. Francis",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RevStack/RevStack.Net/issues"
+    "url": "https://github.com/RevStack/Net/issues"
   },
-  "homepage": "https://github.com/RevStack/RevStack.Net"
+  "homepage": "https://github.com/RevStack/Net"
 }
