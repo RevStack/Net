@@ -2,7 +2,7 @@
   "name": "RevStack.Net",
   "version": "0.9.1",
   "description": "C# Network protocol utility class library",
-  "main": "RevStack.Net.sin",
+  "main": "RevStack.Net.sln",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
