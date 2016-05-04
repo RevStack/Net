@@ -9,4 +9,5 @@ namespace RevStack.Net
         public HttpStatusCode StatusCode { get; set; }
         public string Error { get; set; }
     }
+
 }
