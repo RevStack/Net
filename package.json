@@ -1,6 +1,6 @@
 {
   "name": "RevStack.Net",
-  "version": "0.9.1",
+  "version": "1.0.2",
   "description": "C# Network protocol utility class library",
   "main": "RevStack.Net.sln",
   "scripts": {
