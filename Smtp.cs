@@ -9,7 +9,6 @@ namespace RevStack.Net
     public static class Smtp
     {
 
-        private const string MAIL_HOST = "Revstack.Mail.Host";
         /// <summary>
         /// </summary>
         /// <param name="to"></param>
@@ -90,7 +89,7 @@ namespace RevStack.Net
         {
             try
             {
-                //var mailServer = ConfigurationManager.AppSettings[MAIL_HOST];
+               
                 var objMail = new MailMessage();
                 var fromMail = new MailAddress(from);
                 foreach (var item in to)
